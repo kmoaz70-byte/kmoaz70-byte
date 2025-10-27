@@ -39,8 +39,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmoaz70-byte&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=kmoaz70-byte&theme=radical&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kmoaz70-byte&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
